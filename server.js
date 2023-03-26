@@ -1,5 +1,5 @@
 /**
- * Created by rishabhshukla on 09/03/17.
+ * Created by Rishabhshukla on 09/03/17.
  */
 
 
@@ -46,4 +46,4 @@ app.listen(port, () => {
 
 });
 
-//console.log(shortner.shorten('http://google.com'));
+console.log(shortner.shorten('http://google.com'));
